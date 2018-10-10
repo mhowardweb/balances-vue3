@@ -1,0 +1,6 @@
+{
+  "appId": "com.balances2.app",
+  "appName": "balances2",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
